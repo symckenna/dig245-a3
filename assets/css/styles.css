@@ -1,2 +1,113 @@
 
 /* css */
+h1 {
+	position:relative;
+  left:460px;
+  color:black;
+}
+
+h3 {
+	position:relative;
+  left:460px;
+  color:black;
+}
+body {
+  background-color:#81C72F
+}
+
+.nadasurf {
+	position:relative;
+  left:450px;
+  top:90px;
+  color:white;
+}
+
+.sensefield {
+	position:relative;
+  left:450px;
+  top:69px;
+  color:white;
+}
+
+.allages {
+	position:relative;
+  left:450px;
+  top:80px;
+  color:white;
+}
+
+.wednesday {
+	position:relative;
+  left:830px;
+  top:-30px;
+  color:white;
+}
+
+.ikon {
+	position:relative;
+  left:1020px;
+  top:-108px;
+  color:white;
+}
+
+.tulsa {
+	position:relative;
+  left:1020px;
+  top:-130px;
+  color:white;
+}
+
+.oct {
+	position:relative;
+  left:830px;
+  top:-50px;
+  color:white;
+}
+
+.na{
+	position:relative;
+  left:410px;
+  top:-440px;
+  color:white;
+  font-size: 4500%;
+  font-weight: bold;
+}
+
+.da{
+	position:relative;
+  left:398px;
+  top:-995px;
+  color:white;
+  font-size: 4500%;
+  font-weight: bold;
+  }
+
+  .su{
+	position:relative;
+  left:449px;
+  top:-2560px;
+  color: #34ACD6;
+  font-size: 4420%;
+  mix-blend-mode: multiply;
+  font-weight: bold;
+  }
+
+  .r{
+	position:relative;
+  left:502px;
+  top:-3120px;
+  color: #34ACD6;
+  font-size: 4650%;
+  mix-blend-mode: multiply;
+  font-weight: bold;
+  }
+
+ .f{
+position:relative;
+  left:905px;
+  top:-4255px;
+  color: #34ACD6;
+  font-size: 4700%;
+  mix-blend-mode: multiply;
+  font-weight: bold;
+  }
