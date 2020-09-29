@@ -6,56 +6,56 @@ body {
 }
 
 .nadasurf {
-	position:fixed;
+	position:absolute;
   left:430px;
   top:190px;
   color:white;
 }
 
 .sensefield {
-	position:fixed;
+	position:absolute;
   left:430px;
   top:210px;
   color:white;
 }
 
 .allages {
-	position:fixed;
+	position:absolute;
   left:430px;
   top:255px;
   color:white;
 }
 
 .wednesday {
-	position:fixed;
+	position:absolute;
   left:830px;
   top:190px;
   color:white;
 }
 
 .oct {
-	position:fixed;
+	position:absolute;
   left:830px;
   top:210px;
   color:white;
 }
 
 .ikon{
-	position:fixed;
+	position:absolute;
   top:190px;
   right:528px;
   color:white;
 }
 
 .tulsa{
-	position:fixed;
+	position:absolute;
   top:210px;
   right:460px;
   color:white;
 }
 
 .na{
-	position:fixed;
+	position:absolute;
   left:430px;
   top:1px;
   color:white;
@@ -63,7 +63,7 @@ body {
 }
 
 .da{
-	position:fixed;
+	position:absolute;
   top:210px;
   right:460px;
   color:white;
