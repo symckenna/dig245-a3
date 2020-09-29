@@ -11,56 +11,56 @@ div {
 	position:absolute;
   left:430px;
   top:190px;
-  color:white;
+  color:black;
 }
 
 .sensefield {
 	position:absolute;
   left:430px;
   top:210px;
-  color:white;
+  color:black;
 }
 
 .allages {
 	position:absolute;
   left:430px;
   top:255px;
-  color:white;
+  color:black;
 }
 
 .wednesday {
 	position:absolute;
   left:830px;
   top:190px;
-  color:white;
+  color:black;
 }
 
 .oct {
 	position:absolute;
   left:830px;
   top:210px;
-  color:white;
+  color:black;
 }
 
 .ikon{
 	position:absolute;
   top:190px;
   right:528px;
-  color:white;
+  color:black;
 }
 
 .tulsa{
 	position:absolute;
   top:210px;
   right:460px;
-  color:white;
+  color:black;
 }
 
 .na{
 	position:absolute;
   left:430px;
   top:1px;
-  color:white;
+  color:black;
   font-size: 5000%;
 }
 
@@ -68,6 +68,6 @@ div {
 	position:absolute;
   top:210px;
   right:460px;
-  color:white;
+  color:black;
   font-size: 1500%;
 }
