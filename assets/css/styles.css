@@ -2,7 +2,9 @@
 /* css */
 
 div {
-  background-color: #81C72F;
+    background-color: #81C72F;
+    color: white;
+    padding: 30px;
 }
 
 .nadasurf {
